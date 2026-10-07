@@ -1,0 +1,7 @@
+data/sales.db
+node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
