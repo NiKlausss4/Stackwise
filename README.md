@@ -2,7 +2,7 @@
 
 Stackwise is a web dashboard over ~300,000 Burger Town restaurant line items (110,478 orders, 6 outlets, Jun 2025 – Jun 2026).
 
-**Live app:** `<ADD DEPLOYED URL>` · **Repo:** `<ADD GITHUB URL>`
+**Live app:** https://stackwise-tx5o.onrender.com · **Repo:** https://github.com/NiKlausss4/Stackwise
 
 ![stack](https://img.shields.io/badge/React-Vite-blue) ![stack](https://img.shields.io/badge/FastAPI-SQLite-green)
 
