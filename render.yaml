@@ -1,0 +1,7 @@
+# Render Blueprint: "New +" -> "Blueprint" -> select the repo. Free plan works.
+services:
+  - type: web
+    name: stackwise
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
